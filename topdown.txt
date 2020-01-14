@@ -1,0 +1,15 @@
+1. Mail Package
+1. Aquire Box for package
+  1.1 Purchase box from store
+2. Put contents in Package
+  2.1 Wrap package in bubble Wrap
+3. Close Package
+  3.1 find tape
+  3.2 Seal package with tape
+4. Put posting on Package
+  4.1 Aquire stamps for Package
+  4.2 Print shipping label
+    4.2.1 Tape shipping label to box
+5. Ship Package
+  5.1 Find nearest post office location
+  5.2 ship Package
